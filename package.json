@@ -8,6 +8,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"description": "Project of Mayur Jogiya",
 	"engines": {
 		"node": "4e.4.5"
 	},
