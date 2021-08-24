@@ -17,5 +17,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"keywords": ["freecodecamp", "mayurjogiya", "first page"],
-	"license": "MIS"
+	"license": "MIS",
+	"version": "1.2.0"
+
 }
